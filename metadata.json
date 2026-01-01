@@ -1,0 +1,8 @@
+{
+  "name": "QuantumLens",
+  "description": "An advanced AI-powered quantum physics solver and interactive visualization platform. Solve complex Schrödinger equations, explore quantum phenomena, and visualize probability distributions using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
